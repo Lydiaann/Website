@@ -1,0 +1,145 @@
+body {
+	font-size: 50px;
+	text-align: center;
+ 	height: 100%;
+ 	background-color: palegoldenrod;
+}
+
+button {
+	text-align: center;
+	align-self: left;
+	font-size: 30px;
+	background-color: lightpink;
+}
+
+
+img {
+	width: 500px;
+	height: 300px;
+}
+
+/*h1 {
+	color: lightpink;
+	font-size: 100px;
+	font-family: "sofia", sans-serif;
+	text-shadow: 4px 4px 5px black;
+	margin: auto;
+	text-align: center;
+	align-self: center;
+
+}
+*/
+
+
+h5 {
+	/* Header:  */
+
+	color: black;
+	font-size: 30px;
+	text-align: center;
+	align-self: center;
+	margin: auto;
+	font-family: "sofia", sans-serif;
+	text-shadow: 2px black;
+}
+
+
+
+h6 {
+	/* Links: */
+
+	align-self: center;
+	text-align: center;
+	padding: 1px;
+  margin: 10px 15px 15px 15px;
+  color: black;
+  text-shadow: 2px 2px 5px lightpink;
+  font-family: "sofia", sans-serif;
+}
+
+.Facebook {
+	text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+	align-self: center;
+
+}
+
+.Instagram {
+	text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+	align-self: center;
+}
+
+.Etsy {
+	text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+	align-self: center;
+}
+
+
+.Gallery {
+	text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+	align-self: center;
+}
+
+.mission { 
+  text-align: center;
+	margin: 0;
+	font-size: 50px;
+	text-shadow: 2px 2px 5px lightpink;
+}
+
+
+a:link {
+	color: navajowhite;
+  text-align: center;
+  text-decoration: none; 
+  display: inline-block; 
+  margin: 0; 
+  padding: 0; 
+	align-self: center;
+}
+
+	/*Footer: */
+p {
+	color: black;
+	font-size: 15px;
+	font-family: "sofia", sans-serif;
+}
+
+
+div {
+	color: sandybrown;
+	
+}
+
+#footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 3.5rem;
+}
+
+#page-container {
+	position: relative;
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+}
+
+#content-wrap {
+	padding-bottom: 2.5rem;
+}

@@ -1,0 +1,30 @@
+body {
+	font-family: sans-serif;
+	background-image: linear-gradient(to right, lightblue , lightpink);
+}
+h1 {
+	text-align:center;
+	color: mintcream;
+	margin:30px 0 50px;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Rochester', cursive;
+
+
+}
+
+.gallery {
+	margin: 10px 50px;
+
+}
+
+.gallery img {
+	width: 300px;
+	filter: grayscale(100%);
+	transition: .5s;
+
+}
+
+.gallery img:hover {
+	filter: grayscale(0);
+	transform: scale(1.1);
+}
