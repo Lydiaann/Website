@@ -22,8 +22,7 @@ p {
 	width: 300px;
 	height: 275px;
 	filter: grayscale(180%);
-	transition: .2s;
-
+	
 }
 
 .gallery img:hover {
