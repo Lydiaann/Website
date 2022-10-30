@@ -20,6 +20,7 @@ p {
 
 .gallery img {
 	width: 300px;
+	height: 275px;
 	filter: grayscale(180%);
 	transition: .2s;
 
@@ -29,3 +30,4 @@ p {
 	filter: grayscale(0);
 	transform: scale(1.1);
 }
+
